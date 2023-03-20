@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Car_Rental" Database="" Version="10000">
+  <Project Name="CarRental" Path="CarRental/CarRental.project" Active="Yes"/>
+  <Project Name="Car_Rentalabc" Path="Car_Rentalabc/Car_Rentalabc.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="CarRental" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="Car_Rentalabc" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="CarRental" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="Car_Rentalabc" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
